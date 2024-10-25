@@ -5,24 +5,3 @@ longLabel Microsatellite density landscapes illustrated the local relative densi
 type bedGraph
 visibility dense
 
-track bed
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dfb852c4d50f9362/display?to_ext=txt
-shortLabel HMDP
-longLabel HMDP track shows the main motif types, nomenclature and chromosomal locations of High Microsatellites Density Peaks (HMDPs) of T2T-CHM13
-type bed
-visibility dense
-
-track bed
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213520f1db6f973d6291/display?to_ext=txt
-shortLabel MMDP
-longLabel MMDP track shows the main motif types, nomenclature and chromosomal locations of Middle Microsatellites Density Peaks (MMDPs) of T2T-CHM13
-type bed
-visibility dense
-
-track bed
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352c23d884e87613f7/display?to_ext=txt
-shortLabel LMDP
-longLabel LMDP track shows the main motif types, nomenclature and chromosomal locations of Low Microsatellites Density Peaks (LMDPs) of T2T-CHM13
-type bed
-visibility dense
-
