@@ -1,4 +1,4 @@
-track  bedGraph
+track  landscapesbedGraph
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135adc8d3d460c1a258/display?to_ext=txt
 shortLabel Landscape of STR Density
 longLabel Microsatellite density landscapes illustrated the local relative density of local microsatellites per kilobase sequence of T2T-CHM13
