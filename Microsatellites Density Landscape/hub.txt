@@ -1,6 +1,0 @@
-hub Microsatellites Density Landscape
-shortLabel Microsatellites Density Landscape
-longLabel Microsatellites Density Landscape in T2T-CHM13
-genomesFile genomes.txt
-email  zhongyangtan@yeah.net
-descriptionUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530434db9800e2a92/display?to_ext=data
